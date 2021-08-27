@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: inventory
 
-connectsTo: inv-mgmt-svc-clou-yks
+connectsTo: inv-svc-ns
 
 runtime: nodejs
