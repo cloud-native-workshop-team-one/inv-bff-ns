@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: inventory
 
-connectsTo: inventory-management-svc-soln-advanced
+connectsTo: inv-mgmt-svc-clou-yks
 
 runtime: nodejs
